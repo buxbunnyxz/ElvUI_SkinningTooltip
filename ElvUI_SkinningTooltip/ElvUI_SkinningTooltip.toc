@@ -1,6 +1,9 @@
 ## Interface: 30300
+## Author: BuxBunny
+## Version: 1.0
 ## Title: |cff1784d1ElvUI|r Skinning Tooltip
 ## Notes: Shows required skinning level on tooltips.
 ## RequiredDeps: ElvUI
 
 Core.lua
+
